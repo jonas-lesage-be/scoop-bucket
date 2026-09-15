@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.3.0/ccmb_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.4.0/ccmb_0.4.0_windows_amd64.zip",
             "bin": [
                 "ccmb.exe"
             ],
-            "hash": "91cdd577d59a8362952a8969299b0bfa825146f5c6c9b721b5e4df2d2cbbc90c"
+            "hash": "e11d370b880e226e7e966ff7ea8e8e9b4d67da59d13aec2274846a365185f3b9"
         },
         "arm64": {
-            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.3.0/ccmb_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.4.0/ccmb_0.4.0_windows_arm64.zip",
             "bin": [
                 "ccmb.exe"
             ],
-            "hash": "c95c3ccbd264bad3c961871dcdfc1c783622d26ba8174845ac875fcf0a7303cc"
+            "hash": "f28b19c8567fd0b7fe49ef3c7429baea7b03fe1f37471240e1fb4f4ad43ceed3"
         }
     },
     "homepage": "https://github.com/jonas-lesage-be/ccmb",

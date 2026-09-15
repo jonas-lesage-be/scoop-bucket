@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.2.0/ccmb_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.3.0/ccmb_0.3.0_windows_amd64.zip",
             "bin": [
                 "ccmb.exe"
             ],
-            "hash": "34a361c3b5cce24a9b93f5d46922b7021072c57a9d0d3c20077df2153be44090"
+            "hash": "91cdd577d59a8362952a8969299b0bfa825146f5c6c9b721b5e4df2d2cbbc90c"
         },
         "arm64": {
-            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.2.0/ccmb_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.3.0/ccmb_0.3.0_windows_arm64.zip",
             "bin": [
                 "ccmb.exe"
             ],
-            "hash": "43705b55cf64509da61fc8ae2a402280fcb7da9b30f0cc4850a99ec62473c9aa"
+            "hash": "c95c3ccbd264bad3c961871dcdfc1c783622d26ba8174845ac875fcf0a7303cc"
         }
     },
     "homepage": "https://github.com/jonas-lesage-be/ccmb",
     "license": "MIT",
-    "description": "Context Combiner (ccmb) is a command-line tool\nthat flattens, filters, converts, and merges files."
+    "description": "Context Combiner (ccmb) is a command-line tool that flattens, filters, converts, and merges files."
 }

@@ -6,14 +6,14 @@
             "bin": [
                 "ccmb.exe"
             ],
-            "hash": "6c853f2ccc8e32382038ced4406c0a1e7c1e741b734b317e0f3a5d586cfb02ea"
+            "hash": "244dbd22146141a3147a6db5f9b22008cfe05379e8438fde1681a69475e863c6"
         },
         "arm64": {
             "url": "https://github.com/jonas-lesage-be/ccmb/releases/download/v0.5.0/ccmb_0.5.0_windows_arm64.zip",
             "bin": [
                 "ccmb.exe"
             ],
-            "hash": "0b27ada78631710b31f048d4895e2521b7337f12953da72c0d278759bc1c0371"
+            "hash": "8bbdc424bd224e210b2bbfc0779d47409decc989b590a7ed8f435e6cb8a1f688"
         }
     },
     "homepage": "https://github.com/jonas-lesage-be/ccmb",
